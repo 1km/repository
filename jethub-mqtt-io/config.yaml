@@ -1,5 +1,5 @@
 name: JetHome JetHub mqtt-io peripheral exposer mod
-version: 0.3.1 mod
+version: 0.3.0
 slug: jethub-mqtt-io
 description: Expose JetHome JetHub peripheral (relays, inputs, etc..) via mqtt-io
 url: https://github.com/1km/addon-jethub-mqtt-io
