@@ -1,4 +1,4 @@
-# JetHome Home Assistant Add-ons
+# JetHome Home Assistant Add-ons mod
 
 ![Project Stage][project-stage-shield]
 ![Maintenance][maintenance-shield]
